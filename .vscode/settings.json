@@ -1,0 +1,15 @@
+{
+    "python.analysis.typeCheckingMode": "basic",
+
+    "script.commands": {
+        "commands": [
+            {
+                "id": "xuan.pasteUrl",
+                "script": ".vscode/paste_url.js"
+            }
+        ]
+    },
+    "yaml.schemas": {
+        "https://json.schemastore.org/mkdocs-1.0.json": "file:///f%3A/open-xuan.github.io/mkdocs.yml"
+    }
+}
